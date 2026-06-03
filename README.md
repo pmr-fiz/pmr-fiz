@@ -14,7 +14,7 @@
 
 ## Навыки
 
-**ML / Data Science:** Python, scikit-learn, CatBoost, pandas, numpy  
+**ML / Data Science:** Python, scikit-learn, CatBoost, XGBoost, matplotlib, seaborn, pandas, numpy  
 **NLP / LLM:** RAG-системы, LLM, промптинг, sentence-transformers  
 **Backend:** FastAPI, SQLAlchemy, PostgreSQL, SQLite  
 **Инфраструктура:** Docker, Docker Compose, Git  
